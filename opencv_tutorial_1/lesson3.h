@@ -1,0 +1,1 @@
+void lesson_3();
